@@ -1,0 +1,19 @@
+
+body { 
+  		
+      background-image: url(https://cdn.pixabay.com/photo/2019/05/14/22/05/container-4203677_960_720.jpg);
+      background-repeat: no-repeat;
+      background-position: center;
+  	  display: flex;
+  	  justify-content: center;
+  	  align-items: center;
+      } 
+		
+#text{
+  font-family: 'Oswald', sans-serif;
+  color:white;
+}
+
+#foto{
+  border:solid 5px white;
+}
